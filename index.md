@@ -15,5 +15,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ## Contenido del curso
 
-### [sp1gh nflgkhlfkhlkdjghljfdh](sp1/sp1.md)  
+### [A1. Sprint 1: Instal·lació i Configuració Inicial](sp1/sp1.md)  
 
